@@ -16,7 +16,7 @@ require (
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/shirou/gopsutil v3.21.8+incompatible
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.9.0
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	golang.org/x/net v0.0.0-20210924151903-3ad01bbaa167 // indirect
