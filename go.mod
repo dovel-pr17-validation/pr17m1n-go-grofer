@@ -11,7 +11,7 @@ require (
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/gizak/termui/v3 v3.1.0
 	github.com/gorilla/mux v1.8.0 // indirect
-	github.com/mattn/go-runewidth v0.0.12
+	github.com/mattn/go-runewidth v0.0.17
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
